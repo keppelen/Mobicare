@@ -6,7 +6,7 @@
 - [Android](http://developer.android.com/guide/practices/ui_guidelines/index.html)
 - [iPhone](http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html)
 
-## Sites de inspiração mobile:
+## Sites de inspiração Mobile:
 - [IOS Inspiration](www.iospirations.com)
 - [IOS Inspires](http://iosinspires.me)
 - [Tappgala](www.tappgala.com)
