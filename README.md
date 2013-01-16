@@ -15,6 +15,8 @@
 - [Inspired UI](http://inspired-ui.com/)
 - [Love Yui](www.lovelyui.com)
 - [Simula app dentro de um device](http://placeit.breezi.com)
+- [Componentes Android Dev](http://www.androidviews.net/)
+- [Mobile Design Pattern Gallery](http://www.mobiledesignpatterngallery.com/mobile-patterns.php)
 
 ## Padrões mobile:
 - [Creatica](http://creattica.com/mobile/latest-designs)
@@ -23,18 +25,4 @@
 - [Pattern Sofdesign](www.patternsofdesign.co.uk)
 
 ## Referências para XHTML mobile:
-<!--- [Guia boas práticas XHTML](Design\Biblioteca\Mobile\Artigos e Pesquisas - XHTML guia-boas-praticas.pdf)
-
-- dotMobi Mobile Web Developers Guide_0.pdf
-Manual de Identidade da Oi
-Design\Biblioteca\Manuais de Identidade\OI [logos e fontes]\MANUAL_EM_PDF\208244_manumarca2.pdf-->
-
-<!--Add-ons do Firefox
-CollorZilla - pegar cores do navegador
-MeasrueIt - medir pixels no navegador
-Modify Headers - para simular navegação mobile no navegador
-Firebug - visualizar e editar código direto no navegador
-Screengrab - tirar print-screens no navegador
-Web Developer - várias ferramentinhas incluindo adaptação de resolução de tela do navegador
-WMLBrowser - renderizar sites WML no navegador
-XHTML Mobile Profile - renderizar sites XHTML mobile no navegador-->
+[Guia boas práticas XHTML](Design\Biblioteca\Mobile\Artigos e Pesquisas - XHTML guia-boas-praticas.pdf)
