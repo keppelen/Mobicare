@@ -25,4 +25,4 @@
 - [Pattern Sofdesign](www.patternsofdesign.co.uk)
 
 ## Referências para XHTML mobile:
-[Guia boas práticas XHTML](Design\Biblioteca\Mobile\Artigos e Pesquisas - XHTML guia-boas-praticas.pdf)
+- [Guia boas práticas XHTML](https://github.com/keppelen/Mobicare/blob/master/XHTML%20guia-boas-praticas.pdf?raw=true)
