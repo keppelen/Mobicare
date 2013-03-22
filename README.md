@@ -17,6 +17,8 @@
 - [Simula app dentro de um device](http://placeit.breezi.com)
 - [Componentes Android Dev](http://www.androidviews.net/)
 - [Mobile Design Pattern Gallery](http://www.mobiledesignpatterngallery.com/mobile-patterns.php)
+- [webplatformtools](http://webplatformtools.org)
+- [Ux Blog](http://www.uxdesign.blog.br/)
 
 ## Padrões mobile:
 - [Creatica](http://creattica.com/mobile/latest-designs)
