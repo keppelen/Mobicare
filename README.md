@@ -20,6 +20,7 @@
 - [webplatformtools](http://webplatformtools.org)
 - [Ux Blog](http://www.uxdesign.blog.br/)
 - [uxbooth](http://www.uxbooth.com/)
+- [UI android inspired](http://android.inspired-ui.com/)
 
 ## Padrões mobile:
 - [Creatica](http://creattica.com/mobile/latest-designs)
